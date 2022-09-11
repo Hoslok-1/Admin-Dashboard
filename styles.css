@@ -1,0 +1,17 @@
+.main 
+{
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+}
+
+.sidebar
+{
+    display: grid;
+    grid-template-columns: 200px;
+}
+
+.sidebar-links
+{
+    display: grid;
+    
+}
